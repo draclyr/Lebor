@@ -1,0 +1,35 @@
+/* components/Footer.module.css */
+
+.footer {
+    background-color: transparent;
+    text-align: center;
+    padding: 20px 0 0 0;
+}
+
+.icons {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+.icon {
+    font-size: 24px;
+    /* Icon color */
+    cursor: pointer;
+    transition: color 0.3s ease;
+}
+
+
+.divider {
+    border: none;
+    border-top: 1px solid #ccc;
+    /* Light line */
+    margin: 15px 0;
+    width: 60px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.copyright {
+    font-size: 14px;
+}
