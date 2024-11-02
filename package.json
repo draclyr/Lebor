@@ -12,7 +12,7 @@
         "lint": "next lint",
         "prepare": "husky",
         "serve": "serve out",
-        "start": "next start"
+        "start": "next start -p 5000"
     },
     "dependencies": {
         "clsx": "^2.1.1",
@@ -26,7 +26,6 @@
         "tailwindcss-animate": "^1.0.7"
     },
     "devDependencies": {
-        "@commitlint/cli": "^19.4.0",
         "@commitlint/config-conventional": "^19.2.2",
         "@ianvs/prettier-plugin-sort-imports": "^4.3.1",
         "@types/node": "^20.16.0",
@@ -41,7 +40,6 @@
         "eslint-plugin-react": "^7.35.0",
         "husky": "^9.1.4",
         "knip": "^5.27.2",
-        "lint-staged": "^15.2.9",
         "postcss": "^8.4.41",
         "postcss-load-config": "^6.0.1",
         "prettier": "^3.3.3",

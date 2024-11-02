@@ -2,8 +2,8 @@ import { Card } from "@/components/card";
 import { MdiGithub } from "@/components/icons/MdiGithub";
 import { Highlight } from "@/components/ui/hero-highlight";
 import Image from "next/image";
-import AboutSection from "../components/about/AboutSection"
-import Footer from '../components/footer/Footer';
+import AboutSection from "../components/about/AboutSection";
+import Footer from "../components/footer/Footer";
 
 export default function Home() {
     return (
@@ -43,9 +43,10 @@ export default function Home() {
                     Hesam Shahmoradi <Highlight>DRACLYR</Highlight>
                 </h1>
                 <p className="text-center text-lg max-w-[500px] mt-5">
-                    WELCOME TO "LEBOR" PROJECT.
+                    WELCOME TO LEBOR PROJECT.
                     <br />
-                    🌌project based on (NEXT JS, TYPESCRIPT) which has focused on beautiful and modern design.
+                    🌌project based on (NEXT JS, TYPESCRIPT) which has focused on beautiful and
+                    modern design.
                 </p>{" "}
             </div>
 

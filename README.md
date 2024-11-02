@@ -8,6 +8,7 @@ Install the template packages via the code below:
 ```bash
 npm install
 ```
+
 And then run the project with the following code:
 
 ```bash
@@ -16,6 +17,7 @@ npm run dev
 
 then Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 <br>
+
 <p>⭐This project has a day and night theme and you can provide all your corporate or personal services in the service section:</p>
 <img src="./public/home.png">
 <br>
@@ -23,4 +25,3 @@ then Open [http://localhost:3000](http://localhost:3000) with your browser to se
 <img src="./public/aboutme.png">
 <br>
 <p>And finally, I will be very happy if you rate the project❤️</p>
-
