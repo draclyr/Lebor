@@ -45,8 +45,8 @@ export default function Home() {
                 <p className="text-center text-lg max-w-[500px] mt-5">
                     Welcome To My Portfolio.
                     <br />
-                    🌌project based on (NEXT JS, TYPESCRIPT) which has focused on beautiful and
-                    modern design.
+                    🌌A project built with Next.js and TypeScript, designed with a focus on
+                    beautiful and modern aesthetics.
                 </p>{" "}
             </div>
 

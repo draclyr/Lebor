@@ -21,9 +21,9 @@ const LandingSection: React.FC = () => {
                 <div className="lg:w-1/2">
                     <h2 className="text-3xl font-bold mb-4">About Me</h2>
                     <p className="mb-6 text-gray-400">
-                        I have been a front-end developer for 7 years I was born in Tehran and I am
-                        skilled in my profession. My goal is unique and rare design in the web
-                        field. My skills are:
+                        I have been a front-end developer for 7 years. Born in Tehran, I am highly
+                        skilled in my profession. My goal is to create unique and rare designs in
+                        the web field. My skills include:
                     </p>
                     <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 text-gray-400">
                         {[
