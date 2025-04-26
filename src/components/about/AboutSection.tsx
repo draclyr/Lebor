@@ -19,7 +19,7 @@ const LandingSection: React.FC = () => {
                 </div>
 
                 <div className="lg:w-1/2">
-                    <h2 className="text-3xl font-bold mb-4">About Me Hesam Shamoradi</h2>
+                    <h2 className="text-3xl font-bold mb-4">About Me</h2>
                     <p className="mb-6 text-gray-400">
                         I have been a front-end developer for 7 years I was born in Tehran and I am
                         skilled in my profession. My goal is unique and rare design in the web
@@ -34,7 +34,9 @@ const LandingSection: React.FC = () => {
                             "Jquery , React",
                             "Wordpress",
                             "Web Design",
-                            " Seo",
+                            "Seo",
+                            "ShadCN",
+                            "Material UI",
                         ].map((about, index) => (
                             <div key={index} className="flex items-center">
                                 <FaCheckCircle className="text-red-500 mr-2" />
