@@ -1,5 +1,5 @@
 <h2>Lebor Template</h2>
-<p>👽A project with a very professional and galaxy design that is very suitable for a resume topic.</p>
+<p>👽A project with a highly professional and cosmic design, perfectly suited for a resume topic.</p>
 
 ## Getting Started
 
@@ -18,10 +18,10 @@ npm run dev
 then Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 <br>
 
-<p>⭐This project has a day and night theme and you can provide all your corporate or personal services in the service section:</p>
+<p>⭐This project features a day and night theme, allowing you to offer all your corporate or personal services in the service section:</p>
 <img src="./public/home.png">
 <br>
-<p>🌝In the "About" section, you can enter all your abilities and relevant information in a specialized manner:</p>
+<p>🌝In the 'About' section, you can showcase all your skills and relevant information in a structured and professional manner:</p>
 <img src="./public/aboutme.png">
 <br>
-<p>And finally, I will be very happy if you rate the project❤️</p>
+<p>"Finally, I would be delighted if you could rate the project❤️</p>
