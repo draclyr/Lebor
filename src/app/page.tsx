@@ -52,24 +52,44 @@ export default function Home() {
 
             <div className="mb-32 grid text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-4 lg:text-left z-10">
                 <Card
+                    title="Ranex"
+                    description="🏩A professional, streamlined, and highly functional e-commerce website designed in accordance with industry standards."
+                    link="https://github.com/draclyr/ranex"
+                />
+                <Card
                     title="Nexgen"
-                    description="💻free template for general use, fast, advanced and compatible with all browsers and platforms."
+                    description="💻A free template designed for general use—fast, advanced, and fully optimized for compatibility across all browsers and platforms."
                     link="https://github.com/draclyr/Nexgen"
                 />
                 <Card
+                    title="DraclyrPortfolio"
+                    description="🧑🏻My Portfolio Nextjs and TypeScript Template."
+                    link="https://github.com/draclyr/draclyr-portfolio"
+                />
+                <Card
+                    title="Gamerex"
+                    description="🎮Professional video game store website."
+                    link="https://github.com/draclyr/Gamerex"
+                />
+                <Card
+                    title="Idraclyr"
+                    description="✅Professional template for corporate and personal topics and resume based on (Next JS, Typescript) which has special features. "
+                    link="https://github.com/draclyr/Idraclyr"
+                />
+                <Card
+                    title="ArenShop"
+                    description="📲An updated e-commerce website built with ReactJS featuring enhanced functionalities for a seamless shopping experience."
+                    link="https://github.com/draclyr/arenshop"
+                />
+                <Card
                     title="Ronic"
-                    description="📱A professional project based on important front-end languages."
+                    description="💚professional project based on important front-end languages."
                     link="https://github.com/draclyr/Ronic"
                 />
                 <Card
                     title="Liboshop"
                     description="🛍️Shop template with focus on html, css and javascript."
                     link="https://github.com/draclyr/Liboshop"
-                />
-                <Card
-                    title="Idraclyr"
-                    description="✅Professional template for corporate and personal topics and resume based on (Next JS, Typescript) which has special features. "
-                    link="https://github.com/draclyr/Idraclyr"
                 />
             </div>
             <AboutSection />

@@ -24,4 +24,4 @@ then Open [http://localhost:3000](http://localhost:3000) with your browser to se
 <p>🌝In the 'About' section, you can showcase all your skills and relevant information in a structured and professional manner:</p>
 <img src="./public/aboutme.png">
 <br>
-<p>"Finally, I would be delighted if you could rate the project❤️</p>
+<p>Finally, I would be delighted if you could rate the project❤️</p>
